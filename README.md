@@ -46,7 +46,8 @@ Generate a comprehensive, exam-ready report on the fundamentals of Generative AI
 The report should be well-structured with headings, tables, diagrams, graphs, and conclusions suitable for academic submission
 
 ## Output
-[Prompt Engineering Generative AI & LLMs Overview.pdf](https://github.com/user-attachments/files/28097321/Prompt.Engineering.Generative.AI.LLMs.Ove)
+[Prompt Engineering Generative AI & LLMs Overview.pdf](https://github.com/user-attachments/files/28097748/Prompt.Engineering.Generative.AI.LLMs.Overview.pdf)
+
 
 ## Result
 
